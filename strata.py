@@ -25,7 +25,7 @@ import json
 
 app = typer.Typer()
 
-session = 'mj3uu3aix04nddo5vamez2lp'
+session = '0cgbdaptvxijd4jnz1tu3yt1'
 
 @app.command()
 def get_userid(username):
