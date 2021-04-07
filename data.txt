@@ -1,9 +1,9 @@
 {
-    "UserName":"yreddysdfs",
-    "FirstName":"ABCDasdf",
-    "LastName":"SDFSasdf",
+    "UserName":"MadhuriTejas",
+    "FirstName":"Strata",
+    "LastName":"Consultingbay",
     "Emails":[
-        "SDFS@example.com"
+        "Strata@example.com"
     ],
     "AddressInfo": [
     {
