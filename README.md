@@ -1,6 +1,8 @@
 # Strata_Req
-CLI application requirement
+## CLI(Command Line Interafce) application requirement
  
+ ## Step 0:
+ * Run `pip install requests typer` to install dependencies. 
  
  ## Step 1:
  * Visit the url  https://services.odata.org/TripPinRESTierService and get the sessionID that looks like `0cgbdaptvxijd4jnz1tu3yt1` and replace it in the file `strata.py`.
